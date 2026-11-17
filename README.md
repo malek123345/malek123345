@@ -4,18 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D6478F&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Malek+%F0%9F%8C%B8;Full-Stack+Developer+%F0%9F%92%BB;TypeScript+%C2%B7+C%23+%C2%B7+.NET+%E2%9C%A8;Building+web+apps+%26+REST+APIs+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%92%97" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=malek123345&label=Profile%20views&color=ffb6d9&style=for-the-badge" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE4F1,100:EBD7FF&height=60&section=header&text=%F0%9F%8C%B7%20About%20Me&fontSize=24&fontColor=8B3A62" width="100%"/>
 
+<div align="center">
+
 💖 Full-Stack Developer based in **Sousse, Tunisia** 🇹🇳
+
 💻 I build web applications and REST APIs with **TypeScript** and **C# / .NET**
+
 🌱 Currently learning and improving my skills every day
+
 ✨ Open to opportunities and collaborations
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EBD7FF,100:FFE4F1&height=60&section=header&text=%F0%9F%8E%80%20Tech%20Stack&fontSize=24&fontColor=8B3A62" width="100%"/>
 
@@ -40,8 +43,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=malek123345&show_icons=true&title_color=D6478F&text_color=8B3A62&icon_color=D6478F&bg_color=FFF0F6&border_color=EBD7FF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek123345&layout=compact&title_color=D6478F&text_color=8B3A62&bg_color=F8F0FF&border_color=EBD7FF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malek123345&theme=default" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malek123345&theme=default" width="48%" />
 
 </div>
 
